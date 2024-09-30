@@ -11,6 +11,7 @@
 
 
 ## 개요
+![GameBanner](https://github.com/user-attachments/assets/f008395f-2864-4613-aff9-954e536af559)
 
 - 프로젝트 이름: Undeader
 - 프로젝트 기간: 2024.03 ~ 2024.11

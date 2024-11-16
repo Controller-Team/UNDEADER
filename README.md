@@ -26,7 +26,7 @@
 - PlayFab GBaaS 게임 클라우드 서버 글로벌 랭킹, 데이터 저장 및 불러오기
 
 ## 게임 설명
-|![image](/Source/Image/Title.png)|![image](/Source/Image/PlayScreenshot.png)|
+|![타이틀스샷](https://github.com/user-attachments/assets/8fd56da2-b0cc-4e8b-85db-6879e4df20f9)|![언데더스샷](https://github.com/user-attachments/assets/a8a21353-9908-46e6-9e4e-fa3282875413)|
 |:---:|:---:|
 |게임 타이틀|게임 플레이 화면|
 
@@ -56,17 +56,12 @@
 
 - 구역
 
-|안전 구역|좀비 구역|상점 구역|휴식 구역|
-|---|---|---|---|
-|![image](/Source/Image/SafeArea.png)|![image](/Source/Image/ZombieArea.png)|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|
-|구출한 NPC를 통해 업그레이드|난이도가 다른 좀비들과의 전투|무기 구매 및 판매|HP 재충전 및 휴식, 시간 정지|
+|좀비 구역|상점 구역|휴식 구역|
+|---|---|---|
+|![좀비구역 스크린샷](https://github.com/user-attachments/assets/d37d430b-7be8-4a95-9269-7cc6930a3bad)|![상점구역 스크린샷](https://github.com/user-attachments/assets/0a07a2fd-b3dc-43cf-b480-f6491ed36670)|![휴식구역 스크린샷](https://github.com/user-attachments/assets/5ca88d29-f4d3-456e-9718-83465756d330)|
+|난이도가 다른 좀비들과의 전투|무기 구매 및 판매|HP 재충전 및 휴식, 시간 정지|
 
 - 스테이지
-
-|위험 지대|폐쇄된 도시|좀비의 땅|
-|---|---|---|
-|![image](/Source/Image/Stage1.png)|![image](/Source/Image/Black.png)|![image](/Source/Image/Black.png)|
-|첫 번째 스테이지|두 번째 스테이지|세 번째 스테이지|
 
 ## Youtube 소개 영상
 
